@@ -7,9 +7,10 @@ set tabstop=4
 set shiftwidth=4
 set expandtab
 
-let g:molokai_orginal=1
+let g:molokai_orginal=0
 
 colorscheme molokai
+set background=dark
 
 set number
 
